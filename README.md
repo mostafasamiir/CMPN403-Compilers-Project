@@ -94,7 +94,7 @@ compiler < tests/valid/01_declarations.txt
 
 | Member | Role |
 |---|---|
-| _TBD_ | Lexer & Integration |
-| _TBD_ | Declarations & Expressions |
-| _TBD_ | Control Flow & Blocks |
-| _TBD_ | Functions, Classes & Objects |
+| Adam Amr | Lexer & Integration |
+| Mostafa Samir | Declarations & Expressions |
+| Amira El Wakeel | Control Flow & Blocks |
+| Ali Osama | Functions, Classes & Objects |

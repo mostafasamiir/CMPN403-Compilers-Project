@@ -27,7 +27,7 @@ These must be done **before** anyone writes grammar rules:
 
 ## Member 1: Lexer & Integration
 
-**Claimed by:** `________________`
+**Claimed by:** Adam Amr (@Adam-Amr1)
 
 **Files:** `src/lexer.l`, `Makefile`, `build.bat`, `run_tests.bat`, `README.md`, `docs/tokens.md`
 
@@ -53,7 +53,7 @@ These must be done **before** anyone writes grammar rules:
 
 ## Member 2: Declarations & Expressions
 
-**Claimed by:** `________________`
+**Claimed by:** Mostafa Samir (@mostafasamiir)
 
 **Section in** `src/parser.y`: *Program / Declarations / Expressions / Precedence*
 
@@ -81,7 +81,7 @@ These must be done **before** anyone writes grammar rules:
 
 ## Member 3: Control Flow & Blocks
 
-**Claimed by:** `________________`
+**Claimed by:** Amira El Wakeel (@amiraelwakeel)
 
 **Section in** `src/parser.y`: *Statements / Blocks / Control Flow*
 
@@ -107,7 +107,7 @@ These must be done **before** anyone writes grammar rules:
 
 ## Member 4: Functions, Classes & Objects
 
-**Claimed by:** `________________`
+**Claimed by:** Ali Osama (@ali0sama)
 
 **Section in** `src/parser.y`: *Functions / Classes & Objects*
 
